@@ -1,0 +1,22 @@
+{
+  "name": "pasture",
+  "version": "0.0.0",
+  "description": "Some HTTP parsing utilities I accidently started writing",
+  "main": "pasture.js",
+  "scripts": {
+    "test": "macchiato test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sonewman/pasture.git"
+  },
+  "author": "Sam Newman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sonewman/pasture/issues"
+  },
+  "homepage": "https://github.com/sonewman/pasture#readme",
+  "devDependencies": {
+    "macchiato": "^4.1.0"
+  }
+}
