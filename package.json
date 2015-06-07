@@ -1,6 +1,6 @@
 {
   "name": "pasture",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Some HTTP parsing utilities I accidently started writing",
   "main": "pasture.js",
   "scripts": {
