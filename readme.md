@@ -23,7 +23,7 @@ pasture.scan([97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107], [103, 104, 10
 
 #### pasture.getHeaderEndingIndex(buffer)
 ```javascript
-// get a the start index of the end of the HTTP header.
+// get the start index of the end of the HTTP header.
 // this is particularly useful for slicing a buffer to obtain
 // just the header
 const req = new Buffer('GET /abc HTTP/1.1\r\nHost: 0.0.0.0:3000\r\nContent-Length: 0\r\n\r\n');
